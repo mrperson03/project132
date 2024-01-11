@@ -1,0 +1,20 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+canvas {
+    box-shadow: 15px 12px 10px black;
+    border-radius: 15px;
+}
+
+.back {
+    margin-left: 500px;
+}
